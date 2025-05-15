@@ -22,6 +22,7 @@ predict the linear regression using regr.predict()method and display the result
 
 ## Program:
 **Developed by: TAMIL PAVALAN M**
+
 **RegisterNumber:212223110058**
 ```
 import pandas as pd
